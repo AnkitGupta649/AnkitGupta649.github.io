@@ -1,20 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	 <link rel="stylesheet" href="css/style.css">
-	<title>Responsive Layout</title>
-<style>
-  *{
+*{
   box-sizing: border-box;
 }
 
 h1{
   text-align: center;
-  margin-top: 30px;
-  
-  
 }
 
 p {
@@ -24,7 +13,6 @@ p {
   margin-right: 10px;
   padding: 40px 10px 5px 10px;
   overflow: hidden;
-
 }
 
 
@@ -43,7 +31,7 @@ p {
   width: 120px;
   padding: 10px;
   text-align: center;
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: Arial, Helvetica, sans-serif;
 
 }
 #p2 {
@@ -57,7 +45,7 @@ p {
   width: 120px;
   padding: 10px;
   text-align: center;
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: Arial, Helvetica, sans-serif;
 
 }
 #p3 {
@@ -70,7 +58,7 @@ p {
   width: 120px;
   padding: 10px;
   text-align: center;
- font-family: "Lucida Console", "Courier New", monospace;
+  font-family: Arial, Helvetica, sans-serif;
 
 }
 
@@ -87,41 +75,41 @@ p {
     float: left;
   }
   .col-lg-1 {
-    width: 8.32%;
+    width: 9.32%;
   }
   .col-lg-2 {
-    width: 16.55%;
+    width: 15.45%;
   }
   .col-lg-3 {
-    width: 25%;
+    width: 24%;
   }
   .col-lg-4 {
-    width: 33.33%;
+    width: 32.31%;
   
   }
   .col-lg-5 {
-    width: 41.65%;
+    width: 40.62%;
   }
   .col-lg-6 {
-    width: 50%;
+    width: 48%;
   }
   .col-lg-7 {
-    width: 58.33%;
+    width: 57.32%;
   }
   .col-lg-8 {
-    width: 66.65%;
+    width: 67.65%;
   }
   .col-lg-9 {
-    width: 74.98%;
+    width: 73.98%;
   }
   .col-lg-10 {
-    width: 83.33%;
+    width: 82.44%;
   }
   .col-lg-11 {
-    width: 91.66%;
+    width: 92.33%;
   }
   .col-lg-12 {
-    width: 100%;
+    width: 101%;
   }
 
   
@@ -134,41 +122,41 @@ p {
    
   }
   .col-lg-1 {
-    width: 8.32%;
+    width: 9.32%;
   }
   .col-lg-2 {
-    width: 16.55%;
+    width: 15.45%;
   }
   .col-lg-3 {
-    width: 25%;
+    width: 24%;
   }
   .col-lg-4 {
-    width: 33.33%;
+    width: 32.31%;
   
   }
   .col-lg-5 {
-    width: 41.65%;
+    width: 40.62%;
   }
   .col-lg-6 {
-    width: 50%;
+    width: 48%;
   }
   .col-lg-7 {
-    width: 58.33%;
+    width: 57.32%;
   }
   .col-lg-8 {
-    width: 66.65%;
+    width: 67.65%;
   }
   .col-lg-9 {
-    width: 74.98%;
+    width: 73.98%;
   }
   .col-lg-10 {
-    width: 83.33%;
+    width: 82.44%;
   }
   .col-lg-11 {
-    width: 91.66%;
+    width: 92.33%;
   }
   .col-lg-12 {
-    width: 100%;
+    width: 101%;
   
   }
 }
@@ -179,73 +167,43 @@ p {
     float: left;
   }
   .col-lg-1 {
-    width: 8.32%;
+    width: 9.32%;
   }
   .col-lg-2 {
-    width: 16.55%;
+    width: 15.45%;
   }
   .col-lg-3 {
-    width: 25%;
+    width: 24%;
   }
   .col-lg-4 {
-    width: 33.33%;
+    width: 32.31%;
   
   }
   .col-lg-5 {
-    width: 41.65%;
+    width: 40.62%;
   }
   .col-lg-6 {
-    width: 50%;
+    width: 48%;
   }
   .col-lg-7 {
-    width: 58.33%;
+    width: 57.32%;
   }
   .col-lg-8 {
-    width: 66.65%;
+    width: 67.65%;
   }
   .col-lg-9 {
-    width: 74.98%;
+    width: 73.98%;
   }
   .col-lg-10 {
-    width: 83.33%;
+    width: 82.44%;
   }
   .col-lg-11 {
-    width: 91.66%;
+    width: 92.33%;
   }
   .col-lg-12 {
-    width: 100%;
+    width: 101%;
+  
   }
 
   
 }
-</style>
-
-
-</head>
-<body>
-	<div class="row">
-	<h1>Our Menu</h1>
-  <div class="col-lg-4 col-md-6 col-sm-12" id="Ankit">
-    <p>lorem ipsum dolor, sit amet consectetur, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  	<p id="p1">Chicken</p>
-
-  	</div>
-
-  
-
-  <div class="col-lg-4 col-md-6 col-sm-12" id="Ankit"><p>lorem, ipsum dolor sit, amet consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-
-  	<p id="p2">Beef</p>
-
-  </div>
-
-  <div class="col-lg-4 col-md-12 col-sm-12" id="Ankit"><p>lorem ipsum dolor sit amet consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-
-  	<p  id="p3">Sushi</p>
-
-  </div>
-
-	</div>	
-
-</body>
-</html>
