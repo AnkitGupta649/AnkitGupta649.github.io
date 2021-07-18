@@ -3,6 +3,12 @@
 	padding: 0;
 	
 }
+.navbar-brand{
+font-size: 30px;
+font-family: "Lucida Console", "Courier New", monospace;
+color: black;
+
+}
 .navbar{
 
 border: none;
@@ -10,22 +16,25 @@ background-color: black;
 color: white;
 }
 body{
-	background-color: #61122F;
-	color: white;
+	
+	color: black;
+
 }
 .glyphicon{
 	font-size: 30px;
-	color:#61122F; 
+	color:#000000; 
 }
 
 .center{
 	width: 90%;
 	background-color: grey;
+	color: #000000;
 
 }
 .container
 {
 	background-color: grey;
+	color: #000000;
 }
 .text-center{
 	font-size: 30px;
@@ -42,10 +51,5 @@ h2{
 
 }
 #myNavbar ul li a {
-	color: #61122F;
-}
-.navbar-brand{
-font-size: 30px;
-font-family: "Lucida Console", "Courier New", monospace;
-
+	color: white;
 }
