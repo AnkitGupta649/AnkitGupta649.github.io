@@ -1,20 +1,20 @@
 var gupta=new Array();
-gupta[0]="Ankit";
-gupta[1]="Anurag";
-gupta[2]="krati";
-gupta[3]="perru";
-gupta[4]="manoj";
-gupta[5]="sarukh";
-gupta[6]="gutthi";
-gupta[7]="kapil";
-gupta[8]="jitendra";
-gupta[9]="akhshay";
-gupta[10]="Jeetu";
+gupta[0]="Yaakov";
+gupta[1]="John";
+gupta[2]="Jen";
+gupta[3]="perina";
+gupta[4]="Jason";
+gupta[5]="Paul";
+gupta[6]="Frank";
+gupta[7]="Larry";
+gupta[8]="Paula";
+gupta[9]="Laura";
+gupta[10]="Jim";
 for(var i=0;i<gupta.length;i++)
 {
 	if(gupta[i].charAt(0)==='J'||gupta[i].charAt(0)==='j')
 	{
-		console.log("Goodbye " + gupta[i]);
+		console.log("Good Bye " + gupta[i]);
 	}
 	else
 	{
