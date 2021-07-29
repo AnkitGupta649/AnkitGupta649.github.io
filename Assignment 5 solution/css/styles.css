@@ -106,7 +106,8 @@ body {
   line-height: 1.8;
 }
 #testimonials {
-  font-style: italic;
+  
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 #testimonials p:nth-child(2) {
   margin-top: 25px;
