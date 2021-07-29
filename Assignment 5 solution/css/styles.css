@@ -24,7 +24,7 @@ body {
 }
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
-  color: #557c3e;
+  color: red;
   font-size: 1.5em;
   text-transform: uppercase;
   font-weight: bold;
@@ -54,7 +54,7 @@ body {
   text-align: center;
 }
 #nav-list a:hover {
-  background: #E7E7E7;
+  background: green;
 }
 #nav-list a span {
   font-size: 1.8em;
@@ -87,7 +87,7 @@ body {
   margin-top: 30px;
   padding-top: 35px;
   padding-bottom: 30px;
-  background-color: #222;
+  background-color: white;
   border-top: 0;
 }
 .panel-footer div.row {
@@ -147,7 +147,7 @@ body {
   text-align: center;
   font-size: 1.6em;
   text-transform: uppercase;
-  background-color: #000;
+  background-color: violet;
   color: #fff;
   opacity: .8;
 }
@@ -170,7 +170,7 @@ body {
   text-align: center;
   font-size: 1.2em;
   text-transform: uppercase;
-  background-color: #000;
+  background-color: white;
   color: #fff;
   opacity: .8;
 }
