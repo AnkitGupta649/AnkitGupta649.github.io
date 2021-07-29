@@ -50,7 +50,7 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: yellow;
   text-align: center;
 }
 #nav-list a:hover {
@@ -68,7 +68,7 @@ body {
   padding-bottom: 0;
 }
 #phone div { /* We Deliver */
-  color: #557c3e;
+  color: white;
   text-align: right;
   padding-right: 15px;
 }
@@ -148,7 +148,7 @@ body {
   font-size: 1.6em;
   text-transform: uppercase;
   background-color: violet;
-  color: #fff;
+  color: orange;
   opacity: .8;
 }
 /* END HOME PAGE */
@@ -171,7 +171,7 @@ body {
   font-size: 1.2em;
   text-transform: uppercase;
   background-color: green;
-  color: #fff;
+  color: orange;
   opacity: .8;
 }
 .category-tile:hover {
@@ -301,7 +301,7 @@ h3.menu-item-title {
     padding: 10px;
     border: 2px solid #fff;
     background-color: green;
-    color: #951c49;
+    color: orange;
   }
   #xs-deliver {
     margin-top: 5px;
